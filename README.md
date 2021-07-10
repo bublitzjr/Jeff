@@ -11,9 +11,9 @@
 
 
 ## Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bublitzjr&theme=dark&hide=html,css,dockerfile&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrbublitz&theme=dark&hide=html,css,dockerfile&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bublitzjr&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrbublitz&show_icons=true&theme=dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bublitzjr&repo=DISCORD_BOT_GIT&theme=dark)](https://github.com/bublitzjr/DISCORD_BOT_GIT) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bublitzjr&repo=snake-game&theme=dark)](https://github.com/bublitzjr/snake-game) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bublitzjr&repo=Aulas-python&theme=dark)](https://github.com/bublitzjr/Aulas-python) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bublitzjr&repo=Cedup-TCC&theme=dark)](https://github.com/bublitzjr/Cedup-TCC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrbublitz&repo=DISCORD_BOT_GIT&theme=dark)](https://github.com/jrbublitz/DISCORD_BOT_GIT) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrbublitz&repo=snake-game&theme=dark)](https://github.com/jrbublitz/snake-game) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrbublitz&repo=Aulas-python&theme=dark)](https://github.com/jrbublitz/Aulas-python) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrbublitz&repo=Cedup-TCC&theme=dark)](https://github.com/jrbublitz/Cedup-TCC)
 
