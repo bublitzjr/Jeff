@@ -1,6 +1,6 @@
 # Tavern gohorse 🐴
 
-> Looking for the ancient arts gohorse young apprentice?  ... 
+> Looking for the ancient arts gohorse, young apprentice?  ... 
 # 🧙🏻‍♂️🔥
 
 > Do you wanna buy some Skooomaa ?!?!
