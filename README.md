@@ -4,7 +4,7 @@
 # 🧙🏻‍♂️🔥
 
 > Do you wanna buy some Skooomaa ?!?!
-# 🦁🗡
+# 🍺🦁🗡
 
 > Dont trust this catman, outsider !
 # 🧝🏻‍♂🏹
