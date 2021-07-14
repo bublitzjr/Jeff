@@ -15,7 +15,11 @@
 
 <details>
  
-  <summary><b>Open details</b></summary><br>
+<summary>
+ <b> Open details </b> 
+</summary> 
+ 
+ <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrbublitz&theme=dark&hide=html,css,dockerfile&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -34,7 +38,11 @@
 
 <details>
  
- <summary><b>Open book</b></summary><br>
+<summary>
+ <b> Open book </b> 
+</summary> 
+ 
+ <br>
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrbublitz&repo=DISCORD_BOT_GIT&theme=dark)](https://github.com/jrbublitz/DISCORD_BOT_GIT) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrbublitz&repo=snake-game&theme=dark)](https://github.com/jrbublitz/snake-game) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrbublitz&repo=Aulas-python&theme=dark)](https://github.com/jrbublitz/Aulas-python) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrbublitz&repo=Cedup-TCC&theme=dark)](https://github.com/jrbublitz/Cedup-TCC) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jrbublitz&repo=Gerenciamento-memoria&theme=dark)](https://github.com/jrbublitz/Gerenciamento-memoria)
 
