@@ -6,7 +6,7 @@
 > Do you wanna buy some Skooomaa ?!?!
 # 🍺🦁🗡
 
-> Be careful with you pocket, outsider ... rsrs
+> Be careful with your pocket, outsider ... rsrs
 # 🧝🏻‍♂️
 
 <hr>
