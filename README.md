@@ -6,8 +6,8 @@
 > Do you wanna buy some Skooomaa ?!?!
 # 🍺🦁🗡
 
-> Dont trust this catman, outsider !
-# 🧝🏻‍♂🏹
+> Be careful with you pocket, outsider ... rsrs
+# 🧝🏻‍♂️
 
 <hr>
  
@@ -22,9 +22,6 @@
  <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrbublitz&theme=dark&hide=html,css,dockerfile&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
-> Be careful with you pocket, outsider ... rsrs
-# 🧝🏻‍♂️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrbublitz&show_icons=true&theme=dark)
 
