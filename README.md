@@ -51,7 +51,7 @@
 
 - <a href="https://forbidden-book-adventurer.vercel.app/">Yes, where are we going?</a>
 
-- <a href="https://forbidden-book-adventurer.vercel.app/">Get out, I want Skooomaaa !</a>
+- <a href="https://forbidden-book-adventurer-pnj0hb1b3-jrbublitz.vercel.app/SkomaTime">Get out elf, I want drink Skooomaaa !</a>
  
  </details>
  
