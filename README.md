@@ -45,9 +45,9 @@
 > I'm looking for the magician who wrote these books, do you want to join me in this quest, outsider ? 
 # 🧝🏻‍♂️
 
-- <a href="https://forbidden-book-adventurer.vercel.app/">Yes, where are we going?</a>
+- <a href="https://forbidden-book-adventurer.vercel.app/elf-talk">Yes, where are we going?</a>
 
-- <a href="https://forbidden-book-adventurer.vercel.app/SkomaTime">Get out elf, I want drink Skooomaaa !</a>
+- <a href="https://forbidden-book-adventurer.vercel.app/skomma-time">Get out elf, I want drink Skooomaaa !</a>
  
  </details>
  
