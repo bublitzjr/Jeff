@@ -14,15 +14,16 @@
 
 <details>
  
-<summary>
+ <summary>
  <b> Open details </b> 
 </summary> 
- 
- <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrbublitz&theme=dark&hide=html,css,dockerfile&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrbublitz&show_icons=true&theme=dark)
+
+Medals
+[![@jrbublitz's Holopin board](https://holopin.me/jrbublitz)](https://holopin.io/@jrbublitz)
 
  </details>
  
